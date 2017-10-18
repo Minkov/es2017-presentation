@@ -3,6 +3,45 @@
 # JavaScript Features in ES2017
 ## And es2015, es2016
 
+<!-- attr: {hasScriptWrapper: true, style: "font-size: 0.9em"} -->
+# Who am I?
+<div style="vertical-align: top">
+  <div style="width: 35%; display:inline-block">
+    <img src="https://raw.githubusercontent.com/Minkov/reactivex-android-seminar/master/imgs/doncho-minkov.jpeg" style="width: 100%; border: 0"/>
+  </div>
+  <div style="width: 60%; display: inline-block">
+    <ul>
+      <li>
+        <strong>Doncho Minkov</strong>
+        <ul>
+          <li>
+            Pricipal Technical Trainer <br/>@ Telerik Academy
+          </li>
+          <li>
+            10+ years in IT
+            <ul>
+              <li>
+                7 as a trainer in Telerik Academy
+              </li>
+              <li>
+                Front-end developer by heart
+                  <ul>
+                    <li>
+                      Software developer by need
+                      <br/>
+                      <br/>
+                    </li>
+                  </ul>
+              </li>
+            </ul>
+          </li>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
 <!-- section start -->
 <!-- attr: { id:'table-of-contents' } -->
 # Table of Contents
@@ -103,6 +142,12 @@ Math.max(...numbers); // instead of Math.max.apply(null, numbers);
 ```
 
 # Async/await
+
+- Async and await allows us to make async code look like sync
+  - Work much like async/await in C#
+- `await` awaits a promise or value, to complete
+  - Can be used only in `async` function
+- `try-catch` for error handling now works!
 
 <!-- section start -->
 <!-- attr: { id:'questions', class:'slide-section' } -->
