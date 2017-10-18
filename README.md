@@ -3,7 +3,7 @@
 # JavaScript Features in ES2017
 ## And es2015, es2016
 
-<!-- attr: {hasScriptWrapper: true, style: "font-size: 0.9em"} -->
+<!-- attr: {hasScriptWrapper: true, style: "font-size: 0.7em"} -->
 # Who am I?
 <div style="vertical-align: top">
   <div style="width: 35%; display:inline-block">
@@ -40,6 +40,10 @@
   </div>
 </div>
 
+- Experience with all popular mobile platforms
+  - Android, iOS, Windows
+- Fluent in Node.js, .NET, Angular, Java, C++
+- Deep knowledge of Data Structures and Algorithms
 
 
 <!-- section start -->
