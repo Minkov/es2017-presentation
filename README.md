@@ -152,5 +152,4 @@ Math.max(...numbers); // instead of Math.max.apply(null, numbers);
 <!-- section start -->
 <!-- attr: { id:'questions', class:'slide-section' } -->
 # Questions
-## Mobile Applications for Android
-[link to the forum](http://telerikacademy.com/Forum/Category/64/android-mobile-apps)
+## Features of ECMAScript 2017
